@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1747179525 source:c:\users\victor-melo\documents\ulbra\computação gráfica\zbuffer_example\main.cpp
+	<GL/glut.h>
+
